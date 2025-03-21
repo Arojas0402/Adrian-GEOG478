@@ -1,0 +1,38 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "Building_NM" : "Name",
+    "latitude" : "latitude",
+    "longitude" : "longitude"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 102100,
+    "latestWkid" : 3857
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Building_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "Name",
+      "length" : 256
+    },
+    {
+      "name" : "latitude",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "latitude"
+    },
+    {
+      "name" : "longitude",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "longitude"
+    }
+  ],
+  "features" : [{"attributes":{"OBJECTID":1,"Building_NM":"HEB Pharmacy","latitude":30.612641499999999,"longitude":-96.318907719999999},"geometry":{"x":-10722171.7609,"y":3582544.7886999995}},{"attributes":{"OBJECTID":2,"Building_NM":"CVS Pharmacy","latitude":30.610447000000001,"longitude":-96.315002000000007},"geometry":{"x":-10721736.978599999,"y":3582260.9399000034}},{"attributes":{"OBJECTID":3,"Building_NM":"Walgreens","latitude":30.609138869999999,"longitude":-96.312307300000001},"geometry":{"x":-10721437.006200001,"y":3582091.7437999994}},{"attributes":{"OBJECTID":4,"Building_NM":"CVS Pharmacy","latitude":30.608124830000001,"longitude":-96.309379340000007},"geometry":{"x":-10721111.066500001,"y":3581960.5863000005}},{"attributes":{"OBJECTID":5,"Building_NM":"Sam's Club Pharmacy","latitude":30.634513370000001,"longitude":-96.301547290000002},"geometry":{"x":-10720239.206599999,"y":3585374.1586999968}},{"attributes":{"OBJECTID":6,"Building_NM":"Walmart Pharmacy","latitude":30.597173789999999,"longitude":-96.300461330000005},"geometry":{"x":-10720118.3182,"y":3580544.2531000003}},{"attributes":{"OBJECTID":7,"Building_NM":"University Health Services","latitude":30.615671240000001,"longitude":-96.342724660000002},"geometry":{"x":-10724823.0505,"y":3582936.6810000017}},{"attributes":{"OBJECTID":8,"Building_NM":"CVS Pharmacy","latitude":30.621296950000001,"longitude":-96.342388279999994},"geometry":{"x":-10724785.6054,"y":3583664.3906999975}},{"attributes":{"OBJECTID":9,"Building_NM":"Brookshire Brothers Pharmacy","latitude":30.6002972,"longitude":-96.342173560000006},"geometry":{"x":-10724761.702199999,"y":3580948.196800001}},{"attributes":{"OBJECTID":10,"Building_NM":"Goldstar LTC Pharmacy","latitude":30.64481619,"longitude":-96.327939799999996},"geometry":{"x":-10723177.2082,"y":3586707.1660000011}},{"attributes":{"OBJECTID":11,"Building_NM":"HEB Pharmacy","latitude":30.583317959999999,"longitude":-96.321543160000004},"geometry":{"x":-10722465.136499999,"y":3578752.4632999972}},{"attributes":{"OBJECTID":12,"Building_NM":"College of Medicine","latitude":30.611282689999999,"longitude":-96.352060039999998},"geometry":{"x":-10725862.2607,"y":3582369.0314999968}},{"attributes":{"OBJECTID":13,"Building_NM":"IV RX Pharmacy","latitude":30.650720320000001,"longitude":-96.297330439999996},"geometry":{"x":-10719769.788799999,"y":3587471.1220000014}},{"attributes":{"OBJECTID":14,"Building_NM":"Walgreens","latitude":30.584140730000001,"longitude":-96.288116959999996},"geometry":{"x":-10718744.149800001,"y":3578858.8536999971}},{"attributes":{"OBJECTID":15,"Building_NM":"Healthpoint Pharmacy","latitude":30.639496319999999,"longitude":-96.349493199999998},"geometry":{"x":-10725576.521,"y":3586018.8493999988}},{"attributes":{"OBJECTID":16,"Building_NM":"CVS Pharmacy","latitude":30.583520010000001,"longitude":-96.286508979999994},"geometry":{"x":-10718565.149800001,"y":3578778.5892999992}},{"attributes":{"OBJECTID":17,"Building_NM":"Healthpoint- Clinic","latitude":30.638911440000001,"longitude":-96.350172799999996},"geometry":{"x":-10725652.1743,"y":3585943.1752000004}},{"attributes":{"OBJECTID":18,"Building_NM":"Chi Saint Joseph Internal Medicine","latitude":30.581434000000002,"longitude":-96.291078959999993},"geometry":{"x":-10719073.877800001,"y":3578508.8558000028}},{"attributes":{"OBJECTID":19,"Building_NM":"Kroger Pharmacy","latitude":30.581664499999999,"longitude":-96.286000869999995},"geometry":{"x":-10718508.587200001,"y":3578538.6608999968}},{"attributes":{"OBJECTID":20,"Building_NM":"Farmacia Central Rx","latitude":30.653380370000001,"longitude":-96.336605579999997},"geometry":{"x":-10724141.877699999,"y":3587815.3304999992}},{"attributes":{"OBJECTID":21,"Building_NM":"HEB Pharmacy","latitude":30.644161570000001,"longitude":-96.350451419999999},"geometry":{"x":-10725683.1895,"y":3586622.4644000009}},{"attributes":{"OBJECTID":22,"Building_NM":"Walmart Pharmacy","latitude":30.657662999999999,"longitude":-96.330536429999995},"geometry":{"x":-10723466.263699999,"y":3588369.5192999989}},{"attributes":{"OBJECTID":23,"Building_NM":"Baylor Scott & White Pharmacy","latitude":30.582456870000001,"longitude":-96.279431059999993},"geometry":{"x":-10717777.2399,"y":3578641.1186000034}},{"attributes":{"OBJECTID":24,"Building_NM":"Walgreens","latitude":30.654975520000001,"longitude":-96.337672449999999},"geometry":{"x":-10724260.6415,"y":3588021.746100001}},{"attributes":{"OBJECTID":25,"Building_NM":"CVS Pharmacy","latitude":30.642891880000001,"longitude":-96.353401930000004},"geometry":{"x":-10726011.6392,"y":3586458.1818000004}},{"attributes":{"OBJECTID":26,"Building_NM":"Asclepius RX","latitude":30.646600930000002,"longitude":-96.350512780000003},"geometry":{"x":-10725690.020099999,"y":3586938.0944999978}},{"attributes":{"OBJECTID":27,"Building_NM":"Walgreens Pharmacy","latitude":30.64442987,"longitude":-96.353747010000006},"geometry":{"x":-10726050.0536,"y":3586657.1799999997}},{"attributes":{"OBJECTID":28,"Building_NM":"Village Foods & Pharmacy","latitude":30.655142980000001,"longitude":-96.342473859999998},"geometry":{"x":-10724795.132200001,"y":3588043.4164000005}},{"attributes":{"OBJECTID":29,"Building_NM":"BCS Pharmacy","latitude":30.655264819999999,"longitude":-96.348174110000002},"geometry":{"x":-10725429.681299999,"y":3588059.1818000004}},{"attributes":{"OBJECTID":30,"Building_NM":"Cancer Clinic Pharmacy","latitude":30.656503610000001,"longitude":-96.348201639999999},"geometry":{"x":-10725432.744999999,"y":3588219.4869000018}},{"attributes":{"OBJECTID":31,"Building_NM":"Walmart","latitude":30.632025949999999,"longitude":-96.381915910000004},"geometry":{"x":-10729185.8006,"y":3585052.3518000022}},{"attributes":{"OBJECTID":32,"Building_NM":"Walgreens","latitude":30.671433560000001,"longitude":-96.333809740000007},"geometry":{"x":-10723830.646299999,"y":3590151.6494000033}},{"attributes":{"OBJECTID":33,"Building_NM":"CVS Pharmacy- target","latitude":30.66541346,"longitude":-96.321948919999997},"geometry":{"x":-10722510.306399999,"y":3589372.5217999965}},{"attributes":{"OBJECTID":34,"Building_NM":"HEB Pharmacy","latitude":30.690249080000001,"longitude":-96.37170965},"geometry":{"x":-10728049.6447,"y":3592587.0895999968}},{"attributes":{"OBJECTID":35,"Building_NM":"Nova medical center","latitude":30.651385000000001,"longitude":-96.360178000000005},"geometry":{"x":-10726765.947699999,"y":3587557.1300000027}},{"attributes":{"OBJECTID":36,"Building_NM":"Brazos County Health district","latitude":30.674583999999999,"longitude":-96.369133000000005},"geometry":{"x":-10727762.8137,"y":3590559.4029000029}}]
+}
