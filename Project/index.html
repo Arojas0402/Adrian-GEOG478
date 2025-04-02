@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flu Vaccination Locator</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
+</head>
+
+<body>
+
+    <h1>Flu Vaccination Locator</h1>
+    <div id="map"></div> <!-- Map container -->
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="script.js"></script> <!-- Link to external JavaScript file -->
+
+    <button onclick="getUserLocation()">Find My Location</button>
+
+    <input type="text" id="searchBox" placeholder="Search for a center">
+    <button onclick="searchCenter()">Search</button>
+</body>
+
+</html>
